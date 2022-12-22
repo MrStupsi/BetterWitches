@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "de.mrstupsi.betterwitches.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "betterwitches.refmap.json",
+  "mixins": [
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
